@@ -9,6 +9,8 @@ I like building systems from scratch, understanding internals, and contributing 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneonai&label=Profile%20views&color=0e75b6&style=flat" alt="insaneonai" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SS-Pradeep](https://github.com/SS-Pradeep)
+  
+- 🧠 Read my articles to know some deep tech and algos [https://medium.com/@pradeepssoffl](https://medium.com/@pradeepssoffl)
 
 - 📫 How to reach me **pradeepss@student.tce.edu**
 
