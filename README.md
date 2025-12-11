@@ -12,7 +12,7 @@ I like building systems from scratch, understanding internals, and contributing 
   
 - 🧠 Read my articles to know some deep tech and algos [https://medium.com/@pradeepssoffl](https://medium.com/@pradeepssoffl)
 
-- 📫 How to reach me **pradeepss@student.tce.edu**
+- 📫 How to reach me **pradeepss@student.tce.edu** or **pradeepssoffl@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
