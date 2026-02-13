@@ -6,7 +6,7 @@
 Just a student interested in **Machine Learning**, **Data Structures and algorithms**, **Software Engineering**, and **Open Source**.  
 I like building systems from scratch, understanding internals, and contributing to OSS.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneonai&label=Profile%20views&color=0e75b6&style=flat" alt="insaneonai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SS-Pradeep&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeep" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SS-Pradeep](https://github.com/SS-Pradeep)
   
